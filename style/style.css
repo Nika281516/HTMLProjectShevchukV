@@ -1,0 +1,72 @@
+.feature{
+  width: 200px;
+  height: 200px;
+ text-align: center;
+
+}
+.features-container_bg-green{
+    background-color: green;
+}
+.features-container__title{
+   
+   margin-bottom: 60px;
+}
+.title{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.title_white{
+    color: white;
+
+}
+.values-cont__wrapper{
+    display: flex;
+
+}
+.values-cont__title-values{
+    font-size: 16px;
+
+}
+.values-cont__desc-values{
+    font-size: 14px;
+
+}
+.values-cont__image-values{
+    width: 30%;
+    display: block;
+}
+.values-cont__text-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.features-container__wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.fa-apple-alt{
+    font-size: 35px;
+    color: black;
+}
+
+.feature__desc__grey{
+    color: gray;
+}
+.feature_bg-green{
+    background-color: green;
+}
+.feature__icon{
+
+}
+.feature__title{
+
+}
+.feature__desc{
+
+}
+
+
+
